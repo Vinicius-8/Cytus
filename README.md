@@ -1,5 +1,11 @@
 # Cytus
-This php project provides a web visualisation for the process of graph traversal, showing step by step every node that the code passes through.
+This php project provides a web visualisation for the process of graph traversal, showing step by step every node that the code passes through.  
+<p align="center">
+    
+    
+<img src="https://user-images.githubusercontent.com/33498293/81461445-3b9ad400-9182-11ea-8787-2ac7b04dcad3.gif" width="600" height="336" alt="Noteum GiF">
+
+</p>
 
 ### Dependencies 
 
